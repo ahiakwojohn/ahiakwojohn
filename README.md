@@ -1,6 +1,6 @@
 # 👋 Hello! 
 
-My name is Ahiakwo John also known as King Johney.
+My name is Ahiakwo John.
 
 I'm a software engineer and fullstack web2, web3 and mobile app developer based in Nigeria who is passionate about everything related to software development and technology. When I'm not coding, you can find me playing chess, researching or reading developer blogs.
 
